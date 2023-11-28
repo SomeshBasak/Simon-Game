@@ -1,1 +1,2 @@
-# Simon-Game
+## Simon-Game
+# Simon Says is a popular children's game that involves following commands given by the leader Simon. The game typically involves physical and mental tasks, and players are eliminated if they disobey Simon's instructions. It can be played in various formats, including the traditional Simon Says game, Simon Says Dance, and Simon Says Jenga. The game can help children develop their attention, memory, and decision-making skills.  
